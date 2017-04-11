@@ -1,4 +1,4 @@
-# Welcome !
+# Welcome to my site!
 
 This site contains the source files for my [personal blog](https://andymacool.github.io). It is setup using Jekyll and hosted on Github Pages.
 
