@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start Writing My Blog
+title: Site Under Construction
 ---
 
-Hello World !
+Please visit later :)
